@@ -1,1 +1,87 @@
-aW1wb3J0IHsgbWtkaXJTeW5jLCByZWFkZGlyU3luYywgcmVhZEZpbGVTeW5jLCB3cml0ZUZpbGVTeW5jIH0gZnJvbSAnbm9kZTpmcyc7CmltcG9ydCB7IGpvaW4gfSBmcm9tICdub2RlOnBhdGgnOwoKLy8gUGVyLW9wY29kZSB0YWJsZXMsIGluZGV4ZWQgYnkgb3Bjb2RlIGJ5dGUgKDB4MDAuLjB4NTMpLCBvbmUgZGlnaXQgZWFjaDoKLy8gTlAgPSB2YWx1ZXMgcG9wcGVkLCBOUSA9IHZhbHVlcyBwdXNoZWQsIE5JID0gaW1tZWRpYXRlIGJ5dGVzLiBEZXJpdmVkIGZyb20gSVNBLm1kLgpjb25zdCBOUCA9ICIwMDAxMTIyMzAwMDAwMDAwMjIyMjIyMjEyMjIxMjIyMDIyMjAwMDAwMDAwMDAwMDAwMTEwMDAwMDAwMDAwMDAwMTIwMDAwMDAwMDAwMDAwMDExMDEiOwpjb25zdCBOUSA9ICIwMTEwMjIzMzAwMDAwMDAwMTExMTExMTExMTExMTExMDExMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTAwMDAwMDAwMDAwMDAwMDAwMTAiOwpjb25zdCBOSSA9ICIwMTQwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAyMjIyMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiOwoKZnVuY3Rpb24gZXhlYyhwcm9nOiBVaW50OEFycmF5LCBpbnB1dDogVWludDhBcnJheSk6IHsgb3V0OiBudW1iZXJbXTsgY29kZTogbnVtYmVyIH0gewogIGNvbnN0IGQgPSBuZXcgSW50MzJBcnJheSgyNTYpOwogIGxldCBzcCA9IDA7CiAgY29uc3QgY3MgPSBuZXcgSW50MzJBcnJheSg2NCk7CiAgbGV0IGNwID0gMDsKICBjb25zdCBtZW0gPSBuZXcgSW50MzJBcnJheSgyNTYpOwogIGNvbnN0IG91dDogbnVtYmVyW10gPSBbXTsKICBsZXQgcGMgPSAwOwogIGxldCBpcCA9IDA7CiAgbGV0IG4gPSAwOwogIGNvbnN0IHRyYXAgPSAoY29kZTogbnVtYmVyKSA9PiAoeyBvdXQsIGNvZGUgfSk7CiAgZm9yICg7OykgewogICAgaWYgKG4gPT09IDEwMDAwMDApIHJldHVybiB0cmFwKDEwKTsKICAgIGlmIChwYyA8IDAgfHwgcGMgPj0gcHJvZy5sZW5ndGgpIHJldHVybiB0cmFwKDkpOwogICAgY29uc3Qgb3AgPSBwcm9nW3BjXTsKICAgIGNvbnN0IGltbSA9IE5JLmNoYXJDb2RlQXQob3ApIC0gNDg7CiAgICBjb25zdCBrbm93biA9IG9wID09PSAweDAwIHx8IGltbSA+IDAgfHwgTlAuY2hhckNvZGVBdChvcCkgPiA0OCB8fCBOUS5jaGFyQ29kZUF0KG9wKSA+IDQ4IHx8IG9wID09PSAweDM0IHx8IG9wID09PSAweDUyOwogICAgaWYgKCFrbm93bikgcmV0dXJuIHRyYXAoNSk7CiAgICBpZiAocGMgKyBpbW0gPj0gcHJvZy5sZW5ndGgpIHJldHVybiB0cmFwKDkpOwogICAgbisrOwogICAgY29uc3QgbnggPSBwYyArIDEgKyBpbW07CiAgICBjb25zdCBwb3BzID0gTlAuY2hhckNvZGVBdChvcCkgLSA0ODsKICAgIGNvbnN0IHB1c2hlcyA9IE5RLmNoYXJDb2RlQXQob3ApIC0gNDg7CiAgICBpZiAoc3AgPCBwb3BzKSByZXR1cm4gdHJhcCgyKTsKICAgIGlmIChzcCAtIHBvcHMgKyBwdXNoZXMgPiAyNTYpIHJldHVybiB0cmFwKDMpOwogICAgcGMgPSBueDsKICAgIGNvbnN0IHJlbCA9IG9wID49IDB4MzAgJiYgb3AgPD0gMHgzMiA/ICgoKHByb2dbbnggLSAyXSB8IChwcm9nW254IC0gMV0gPDwgOCkpIDw8IDE2KSA+PiAxNikgOiAwOwogICAgc3dpdGNoIChvcCkgewogICAgICBjYXNlIDB4MDA6IHJldHVybiB7IG91dCwgY29kZTogMCB9OwogICAgICBjYXNlIDB4MDE6IGRbc3ArK10gPSAocHJvZ1tueCAtIDFdIDw8IDI0KSA+PiAyNDsgYnJlYWs7CiAgICAgIGNhc2UgMHgwMjogZFtzcCsrXSA9IHByb2dbbnggLSA0XSB8IChwcm9nW254IC0gM10gPDwgOCkgfCAocHJvZ1tueCAtIDJdIDw8IDE2KSB8IChwcm9nW254IC0gMV0gPDwgMjQpOyBicmVhazsKICAgICAgY2FzZSAweDAzOiBzcC0tOyBicmVhazsKICAgICAgY2FzZSAweDA0OiBkW3NwXSA9IGRbc3AgLSAxXTsgc3ArKzsgYnJlYWs7CiAgICAgIGNhc2UgMHgwNTogeyBjb25zdCB0ID0gZFtzcCAtIDFdOyBkW3NwIC0gMV0gPSBkW3NwIC0gMl07IGRbc3AgLSAyXSA9IHQ7IGJyZWFrOyB9CiAgICAgIGNhc2UgMHgwNjogZFtzcF0gPSBkW3NwIC0gMl07IHNwKys7IGJyZWFrOwogICAgICBjYXNlIDB4MDc6IHsgY29uc3QgYSA9IGRbc3AgLSAzXTsgZFtzcCAtIDNdID0gZFtzcCAtIDJdOyBkW3NwIC0gMl0gPSBkW3NwIC0gMV07IGRbc3AgLSAxXSA9IGE7IGJyZWFrOyB9CiAgICAgIGNhc2UgMHgxMDogeyBjb25zdCBiID0gZFstLXNwXTsgZFtzcCAtIDFdID0gKGRbc3AgLSAxXSArIGIpIHwgMDsgYnJlYWs7IH0KICAgICAgY2FzZSAweDExOiB7IGNvbnN0IGIgPSBkWy0tc3BdOyBkW3NwIC0gMV0gPSAoZFtzcCAtIDFdIC0gYikgfCAwOyBicmVhazsgfQogICAgICBjYXNlIDB4MTI6IHsgY29uc3QgYiA9IGRbLS1zcF07IGRbc3AgLSAxXSA9IE1hdGguaW11bChkW3NwIC0gMV0sIGIpOyBicmVhazsgfQogICAgICBjYXNlIDB4MTM6IHsgY29uc3QgYiA9IGRbLS1zcF07IGlmIChiID09PSAwKSByZXR1cm4gdHJhcCg0KTsgZFtzcCAtIDFdID0gZFtzcCAtIDFdID09PSAtMjE0NzQ4MzY0OCAmJiBiID09PSAtMSA/IC0yMTQ3NDgzNjQ4IDogKGRbc3AgLSAxXSAvIGIpIHwgMDsgYnJlYWs7IH0KICAgICAgY2FzZSAweDE0OiB7IGNvbnN0IGIgPSBkWy0tc3BdOyBpZiAoYiA9PT0gMCkgcmV0dXJuIHRyYXAoNCk7IGRbc3AgLSAxXSA9IGIgPT09IC0xID8gMCA6IChkW3NwIC0gMV0gJSBiKSB8IDA7IGJyZWFrOyB9CiAgICAgIGNhc2UgMHgxNTogeyBjb25zdCBiID0gZFstLXNwXTsgaWYgKGIgPT09IDApIHJldHVybiB0cmFwKDQpOyBkW3NwIC0gMV0gPSBNYXRoLmZsb29yKChkW3NwIC0gMV0gPj4+IDApIC8gKGIgPj4+IDApKSB8IDA7IGJyZWFrOyB9CiAgICAgIGNhc2UgMHgxNjogeyBjb25zdCBiID0gZFstLXNwXTsgaWYgKGIgPT09IDApIHJldHVybiB0cmFwKDQpOyBkW3NwIC0gMV0gPSAoKGRbc3AgLSAxXSA+Pj4gMCkgJSAoYiA+Pj4gMCkpIHwgMDsgYnJlYWs7IH0KICAgICAgY2FzZSAweDE3OiBkW3NwIC0gMV0gPSAtZFtzcCAtIDFdIHwgMDsgYnJlYWs7CiAgICAgIGNhc2UgMHgxODogeyBjb25zdCBiID0gZFstLXNwXTsgZFtzcCAtIDFdID0gZFtzcCAtIDFdICYgYjsgYnJlYWs7IH0KICAgICAgY2FzZSAweDE5OiB7IGNvbnN0IGIgPSBkWy0tc3BdOyBkW3NwIC0gMV0gPSBkW3NwIC0gMV0gfCBiOyBicmVhazsgfQogICAgICBjYXNlIDB4MWE6IHsgY29uc3QgYiA9IGRbLS1zcF07IGRbc3AgLSAxXSA9IGRbc3AgLSAxXSBeIGI7IGJyZWFrOyB9CiAgICAgIGNhc2UgMHgxYjogZFtzcCAtIDFdID0gfmRbc3AgLSAxXTsgYnJlYWs7CiAgICAgIGNhc2UgMHgxYzogeyBjb25zdCBiID0gZFstLXNwXTsgZFtzcCAtIDFdID0gZFtzcCAtIDFdIDw8IChiICYgMzEpOyBicmVhazsgfQogICAgICBjYXNlIDB4MWQ6IHsgY29uc3QgYiA9IGRbLS1zcF07IGRbc3AgLSAxXSA9IGRbc3AgLSAxXSA+PiAoYiAmIDMxKTsgYnJlYWs7IH0KICAgICAgY2FzZSAweDFlOiB7IGNvbnN0IGIgPSBkWy0tc3BdOyBkW3NwIC0gMV0gPSAoZFtzcCAtIDFdID4+PiAoYiAmIDMxKSkgfCAwOyBicmVhazsgfQogICAgICBjYXNlIDB4MjA6IHsgY29uc3QgYiA9IGRbLS1zcF07IGRbc3AgLSAxXSA9IGRbc3AgLSAxXSA9PT0gYiA/IDEgOiAwOyBicmVhazsgfQogICAgICBjYXNlIDB4MjE6IHsgY29uc3QgYiA9IGRbLS1zcF07IGRbc3AgLSAxXSA9IGRbc3AgLSAxXSA8IGIgPyAxIDogMDsgYnJlYWs7IH0KICAgICAgY2FzZSAweDIyOiB7IGNvbnN0IGIgPSBkWy0tc3BdOyBkW3NwIC0gMV0gPSAoZFtzcCAtIDFdID4+PiAwKSA8IChiID4+PiAwKSA/IDEgOiAwOyBicmVhazsgfQogICAgICBjYXNlIDB4MzA6IHBjID0gbnggKyByZWw7IGJyZWFrOwogICAgICBjYXNlIDB4MzE6IHsgY29uc3QgdiA9IGRbLS1zcF07IGlmICh2ID09PSAwKSBwYyA9IG54ICsgcmVsOyBicmVhazsgfQogICAgICBjYXNlIDB4MzI6IHsgY29uc3QgdiA9IGRbLS1zcF07IGlmICh2ICE9PSAwKSBwYyA9IG54ICsgcmVsOyBicmVhazsgfQogICAgICBjYXNlIDB4MzM6IGlmIChjcCA9PT0gNjQpIHJldHVybiB0cmFwKDcpOyBjc1tjcCsrXSA9IG54OyBwYyA9IHByb2dbbnggLSAyXSB8IChwcm9nW254IC0gMV0gPDwgOCk7IGJyZWFrOwogICAgICBjYXNlIDB4MzQ6IGlmIChjcCA9PT0gMCkgcmV0dXJuIHRyYXAoOCk7IHBjID0gY3NbLS1jcF07IGJyZWFrOwogICAgICBjYXNlIDB4NDA6IHsgY29uc3QgYSA9IGRbc3AgLSAxXTsgaWYgKGEgPCAwIHx8IGEgPj0gMjU2KSByZXR1cm4gdHJhcCg2KTsgZFtzcCAtIDFdID0gbWVtW2FdOyBicmVhazsgfQogICAgICBjYXNlIDB4NDE6IHsgY29uc3QgYSA9IGRbc3AgLSAxXTsgY29uc3QgdiA9IGRbc3AgLSAyXTsgaWYgKGEgPCAwIHx8IGEgPj0gMjU2KSByZXR1cm4gdHJhcCg2KTsgc3AgLT0gMjsgbWVtW2FdID0gdjsgYnJlYWs7IH0KICAgICAgY2FzZSAweDUwOiB7IGNvbnN0IHMgPSBTdHJpbmcoZFtzcCAtIDFdKTsgaWYgKG91dC5sZW5ndGggKyBzLmxlbmd0aCA+IDY1NTM2KSByZXR1cm4gdHJhcCgxMSk7IHNwLS07IGZvciAobGV0IGkgPSAwOyBpIDwgcy5sZW5ndGg7IGkrKykgb3V0LnB1c2gocy5jaGFyQ29kZUF0KGkpKTsgYnJlYWs7IH0KICAgICAgY2FzZSAweDUxOiBpZiAob3V0Lmxlbmd0aCArIDEgPiA2NTUzNikgcmV0dXJuIHRyYXAoMTEpOyBvdXQucHVzaChkWy0tc3BdICYgMjU1KTsgYnJlYWs7CiAgICAgIGNhc2UgMHg1MjogZFtzcCsrXSA9IGlwIDwgaW5wdXQubGVuZ3RoID8gaW5wdXRbaXArK10gOiAtMTsgYnJlYWs7CiAgICAgIGNhc2UgMHg1MzogcmV0dXJuIHsgb3V0LCBjb2RlOiBkWy0tc3BdICYgMjU1IH07CiAgICAgIGRlZmF1bHQ6IHJldHVybiB0cmFwKDUpOwogICAgfQogIH0KfQoKY29uc3QgSU5EID0gcHJvY2Vzcy5lbnYuTUFLRUZVTl9JTlBVVF9ESVIgPz8gJy9pbnB1dCc7CmNvbnN0IE9VVEQgPSBwcm9jZXNzLmVudi5NQUtFRlVOX09VVFBVVF9ESVIgPz8gJy9vdXRwdXQnOwpmb3IgKGNvbnN0IGlkIG9mIHJlYWRkaXJTeW5jKElORCkuc29ydCgpKSB7CiAgY29uc3QgciA9IGV4ZWMobmV3IFVpbnQ4QXJyYXkocmVhZEZpbGVTeW5jKGpvaW4oSU5ELCBpZCwgJ3Byb2dyYW0uYmluJykpKSwgbmV3IFVpbnQ4QXJyYXkocmVhZEZpbGVTeW5jKGpvaW4oSU5ELCBpZCwgJ2lucHV0LmJpbicpKSkpOwogIG1rZGlyU3luYyhqb2luKE9VVEQsIGlkKSwgeyByZWN1cnNpdmU6IHRydWUgfSk7CiAgd3JpdGVGaWxlU3luYyhqb2luKE9VVEQsIGlkLCAnc3Rkb3V0LmJpbicpLCBVaW50OEFycmF5LmZyb20oci5vdXQpKTsKICB3cml0ZUZpbGVTeW5jKGpvaW4oT1VURCwgaWQsICdleGl0LnR4dCcpLCBgJHtyLmNvZGV9XG5gKTsKfQo=
+import { mkdirSync, readdirSync, readFileSync, writeFileSync } from 'node:fs';
+import { join } from 'node:path';
+
+// Per-opcode tables, indexed by opcode byte (0x00..0x53), one digit each:
+// NP = values popped, NQ = values pushed, NI = immediate bytes. Derived from ISA.md.
+const NP = "000112230000000022222221222122202220000000000000011000000000000012000000000000001101";
+const NQ = "011022330000000011111111111111101110000000000000000000000000000010000000000000000010";
+const NI = "014000000000000000000000000000000000000000000000222200000000000000000000000000000000";
+
+function exec(prog: Uint8Array, input: Uint8Array): { out: number[]; code: number } {
+  const d = new Int32Array(256);
+  let sp = 0;
+  const cs = new Int32Array(64);
+  let cp = 0;
+  const mem = new Int32Array(256);
+  const out: number[] = [];
+  let pc = 0;
+  let ip = 0;
+  let n = 0;
+  const trap = (code: number) => ({ out, code });
+  for (;;) {
+    if (n === 1000000) return trap(10);
+    if (pc < 0 || pc >= prog.length) return trap(9);
+    const op = prog[pc];
+    const imm = NI.charCodeAt(op) - 48;
+    const known = op === 0x00 || imm > 0 || NP.charCodeAt(op) > 48 || NQ.charCodeAt(op) > 48 || op === 0x34 || op === 0x52;
+    if (!known) return trap(5);
+    if (pc + imm >= prog.length) return trap(9);
+    n++;
+    const nx = pc + 1 + imm;
+    const pops = NP.charCodeAt(op) - 48;
+    const pushes = NQ.charCodeAt(op) - 48;
+    if (sp < pops) return trap(2);
+    if (sp - pops + pushes > 256) return trap(3);
+    pc = nx;
+    const rel = op >= 0x30 && op <= 0x32 ? (((prog[nx - 2] | (prog[nx - 1] << 8)) << 16) >> 16) : 0;
+    switch (op) {
+      case 0x00: return { out, code: 0 };
+      case 0x01: d[sp++] = (prog[nx - 1] << 24) >> 24; break;
+      case 0x02: d[sp++] = prog[nx - 4] | (prog[nx - 3] << 8) | (prog[nx - 2] << 16) | (prog[nx - 1] << 24); break;
+      case 0x03: sp--; break;
+      case 0x04: d[sp] = d[sp - 1]; sp++; break;
+      case 0x05: { const t = d[sp - 1]; d[sp - 1] = d[sp - 2]; d[sp - 2] = t; break; }
+      case 0x06: d[sp] = d[sp - 2]; sp++; break;
+      case 0x07: { const a = d[sp - 3]; d[sp - 3] = d[sp - 2]; d[sp - 2] = d[sp - 1]; d[sp - 1] = a; break; }
+      case 0x10: { const b = d[--sp]; d[sp - 1] = (d[sp - 1] + b) | 0; break; }
+      case 0x11: { const b = d[--sp]; d[sp - 1] = (d[sp - 1] - b) | 0; break; }
+      case 0x12: { const b = d[--sp]; d[sp - 1] = Math.imul(d[sp - 1], b); break; }
+      case 0x13: { const b = d[--sp]; if (b === 0) return trap(4); d[sp - 1] = d[sp - 1] === -2147483648 && b === -1 ? -2147483648 : (d[sp - 1] / b) | 0; break; }
+      case 0x14: { const b = d[--sp]; if (b === 0) return trap(4); d[sp - 1] = b === -1 ? 0 : (d[sp - 1] % b) | 0; break; }
+      case 0x15: { const b = d[--sp]; if (b === 0) return trap(4); d[sp - 1] = Math.floor((d[sp - 1] >>> 0) / (b >>> 0)) | 0; break; }
+      case 0x16: { const b = d[--sp]; if (b === 0) return trap(4); d[sp - 1] = ((d[sp - 1] >>> 0) % (b >>> 0)) | 0; break; }
+      case 0x17: d[sp - 1] = -d[sp - 1] | 0; break;
+      case 0x18: { const b = d[--sp]; d[sp - 1] = d[sp - 1] & b; break; }
+      case 0x19: { const b = d[--sp]; d[sp - 1] = d[sp - 1] | b; break; }
+      case 0x1a: { const b = d[--sp]; d[sp - 1] = d[sp - 1] ^ b; break; }
+      case 0x1b: d[sp - 1] = ~d[sp - 1]; break;
+      case 0x1c: { const b = d[--sp]; d[sp - 1] = d[sp - 1] << (b & 31); break; }
+      case 0x1d: { const b = d[--sp]; d[sp - 1] = d[sp - 1] >> (b & 31); break; }
+      case 0x1e: { const b = d[--sp]; d[sp - 1] = (d[sp - 1] >>> (b & 31)) | 0; break; }
+      case 0x20: { const b = d[--sp]; d[sp - 1] = d[sp - 1] === b ? 1 : 0; break; }
+      case 0x21: { const b = d[--sp]; d[sp - 1] = d[sp - 1] < b ? 1 : 0; break; }
+      case 0x22: { const b = d[--sp]; d[sp - 1] = (d[sp - 1] >>> 0) < (b >>> 0) ? 1 : 0; break; }
+      case 0x30: pc = nx + rel; break;
+      case 0x31: { const v = d[--sp]; if (v === 0) pc = nx + rel; break; }
+      case 0x32: { const v = d[--sp]; if (v !== 0) pc = nx + rel; break; }
+      case 0x33: if (cp === 64) return trap(7); cs[cp++] = nx; pc = prog[nx - 2] | (prog[nx - 1] << 8); break;
+      case 0x34: if (cp === 0) return trap(8); pc = cs[--cp]; break;
+      case 0x40: { const a = d[sp - 1]; if (a < 0 || a >= 256) return trap(6); d[sp - 1] = mem[a]; break; }
+      case 0x41: { const a = d[sp - 1]; const v = d[sp - 2]; if (a < 0 || a >= 256) return trap(6); sp -= 2; mem[a] = v; break; }
+      case 0x50: { const s = String(d[sp - 1]); if (out.length + s.length > 65536) return trap(11); sp--; for (let i = 0; i < s.length; i++) out.push(s.charCodeAt(i)); break; }
+      case 0x51: if (out.length + 1 > 65536) return trap(11); out.push(d[--sp] & 255); break;
+      case 0x52: d[sp++] = ip < input.length ? input[ip++] : -1; break;
+      case 0x53: return { out, code: d[--sp] & 255 };
+      default: return trap(5);
+    }
+  }
+}
+
+const IND = process.env.MAKEFUN_INPUT_DIR ?? '/input';
+const OUTD = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
+for (const id of readdirSync(IND).sort()) {
+  const r = exec(new Uint8Array(readFileSync(join(IND, id, 'program.bin'))), new Uint8Array(readFileSync(join(IND, id, 'input.bin'))));
+  mkdirSync(join(OUTD, id), { recursive: true });
+  writeFileSync(join(OUTD, id, 'stdout.bin'), Uint8Array.from(r.out));
+  writeFileSync(join(OUTD, id, 'exit.txt'), `${r.code}\n`);
+}
